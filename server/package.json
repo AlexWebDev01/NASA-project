@@ -17,13 +17,14 @@
     "testEnvironment": "node"
   },
   "dependencies": {
+    "axios": "^1.6.2",
     "cors": "^2.8.5",
     "csv-parse": "^5.0.4",
     "dotenv": "^16.3.1",
     "express": "^4.18.1",
     "mongodb": "^6.3.0",
     "mongoose": "^8.0.3",
-    "nasa-project": "file:.."
+    "morgan": "^1.10.0"
   },
   "devDependencies": {
     "jest": "^28.0.3",
