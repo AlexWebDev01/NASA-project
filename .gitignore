@@ -1,4 +1,5 @@
 **/node_modules
+aws-key/
 .env
 .DS_Store
 *.log
